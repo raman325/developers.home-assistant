@@ -1600,10 +1600,10 @@
     cssesc "^3.0.0"
     immediate "^3.2.3"
 
-"@easyops-cn/docusaurus-search-local@^0.33.5":
-  version "0.33.5"
-  resolved "https://registry.yarnpkg.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.33.5.tgz#8048b75c860b0ab0eb007159aa13b04ac0c72078"
-  integrity sha512-9juHGVUy6N37Ezg1Msz1paMqT3zrQIlRLNJVw/NTG3aSctaYw1W0zAIRieXgBKvBAPkcCn95GsUrcziH13Grsw==
+"@easyops-cn/docusaurus-search-local@^0.34.0":
+  version "0.34.0"
+  resolved "https://registry.yarnpkg.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.34.0.tgz#a459e5df9094b57a464631db9d3cd850019589c9"
+  integrity sha512-yxEbX6xEAF9+OS305jzUPf53TD3y1VHKyFaBE31XHzy8zs++cRGBACYm9nhJmCrA0n/JjMNq65NyVHkuTaEpMw==
   dependencies:
     "@docusaurus/plugin-content-docs" "^2.0.0-rc.1"
     "@docusaurus/theme-translations" "^2.0.0-rc.1"
